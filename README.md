@@ -1,2 +1,2 @@
 # Publius-Index
-Monitors and assesses the performancce of checks and balances in the United States
+Monitors and assesses the performance of checks and balances in the United States.
